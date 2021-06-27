@@ -32,3 +32,5 @@ As pictured below, there were some rainy days, but only a few through the past y
 
  It would be beneficial to perform additional queries comparing the number of rainy days or number of rain measurements in June and December. Looking at the duration of the rain may also provide some insight into how the weather pattern might affect business. For example, if there are several measurements taken in a day, it might discourage foot traffic into a surf and ice cream store compared to one measurement on an otherwise clear day. 
 
+Another query that may be beneficial is to look at the extremes within the weather data. Identifying the highest temperatures, lowest temperatures, and rainiest days, weeks, or months will give valuable insight to how weather may play on business trends.
+
