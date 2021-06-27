@@ -21,12 +21,13 @@ This analysis has shown several clear trends through the weather data:
 
 ## Summary 
 
-### Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+### Weather Trend Findings
 
 Overall, the weather throughout the year is consistent enough in Oahu to support a surf and ice cream shop, with no major cold snaps throughout the year. The temperatures from summertime in June are within 10 degrees of the temperatures in December. 
 
-As pictured below, there were some rainy days, but only a few through the past year.
+## Additional Helpful Information
 
+As pictured below, there were some rainy days, but only a few through the past year.
 
 ![Alt Text](https://github.com/lyanneagger/surfs_up/blob/main/Resources/year_precip.png)</br>
 
